@@ -1,5 +1,5 @@
 # Bamazon
-### Homework assignment 10 - A CLI program that operates like an online store front
+### Homework Assignment 10 - A CLI program that operates like an online store front
 
 #### Summary
 Bamazon is an Amazon-like, Command Line Interface storefront built on a MySQL database. The app takes in orders from customers and depletes stock from the store's inventory.
